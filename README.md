@@ -2,7 +2,7 @@
 # Project title: Bespoke Crafting
 # Description: I started this project in order help my wife create her crafting website. Its purpose is to function and work.
 # I am using Wix.com as a beginner. However, its my first ever website. Then I will move working towards wordpress etc.
-# ## Table of Contents
+## Table of Contents
 # [Installation](#installation)
 ## Installation
 Describe the steps to install your project. Include any dependencies and how to set up the environment.
