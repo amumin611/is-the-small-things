@@ -1,4 +1,6 @@
+# Header 1
 # is-the-small-things
+## Header 2
 # Project title: Bespoke Crafting
 # Description: I started this project in order help my wife create her crafting website. Its purpose is to function and work.
 # I am using Wix.com as a beginner. However, its my first ever website. Then I will move working towards wordpress etc.
@@ -9,12 +11,12 @@ Describe the steps to install your project. Include any dependencies and how to 
 
 
 # [Usage](#usage)
-## Usage (#usage)
+# Usage
 Provide examples and instructions on how to use your project. Include code snippets if necessary.
 
 
 # [Contributing](#contributing)
-## Contributing
+# Contributing
 Explain how others can contribute to your project. This can include guidelines for submitting issues or pull requests.
 
 
@@ -37,4 +39,5 @@ Highlight major changes in each release of your project.
 Give credit to contributors who have participated in your project.
 ## Roadmap
 Outline future features or improvements you plan to implement.
+
 
